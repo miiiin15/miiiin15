@@ -2,7 +2,6 @@
 
 
 
-<a href="mailto:gg04253@gmail.com"><img src="https://img.shields.io/badge/gg04253@gmail.com-000000.svg?style=flat-square&logo=gmail&logoColor=#EA4335)"></a> <a href="https://velog.io/@gg04253/posts"><img src="https://img.shields.io/badge/My%20Velog-000000.svg?style=flat-square&logo=velog&logoColor=#20C997)"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmiiiin15&count_bg=%233BE51B&title_bg=%23000000&icon=github.svg&icon_color=%2339FF14&title=today&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=25&duration=1000&pause=2000&color=39FF14&background=000000D6&center=true&vCenter=true&random=true&width=100&height=40&lines=⚒️%20Skills%20)](https://git.io/typing-svg)
