@@ -17,7 +17,7 @@
 
 
 
-![주언어](https://github-readme-stats.vercel.app/api/wakatime?username=miiiin15&api_key=waka_954f0e21-b78a-45c7-b857-a14097058a66&theme=vue&layout=compact&title_color=41b883&text_color=000000&hide=Groovy,Markdown,Gradle,text&color=41b883,git,other,xml&langs_count=6&range=last_7_days&custom_title=Last%207%20Days%20Language%20Time%20Record)
+![주언어](https://github-readme-stats.vercel.app/api/wakatime?username=miiiin15&theme=vue&layout=compact&title_color=41b883&text_color=000000&hide=Groovy,Markdown,Gradle,text&color=41b883,git,other,xml&langs_count=6&range=last_7_days&custom_title=Last%207%20Days%20Language%20Time%20Record)
 
 
 [![툴들](https://readme-typing-svg.demolab.com?font=Rubik&size=25&duration=1000&pause=2000&color=41b883&background=ffffffD6&center=true&vCenter=true&random=true&width=100&height=40&lines=⚒️%20Tools%20)](https://git.io/typing-svg)
