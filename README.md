@@ -2,7 +2,7 @@
 
 ![헤더](https://capsule-render.vercel.app/api?type=rect&height=100&color=ffffff&text=KIM%20MINTAE&fontColor=41b883&animation=twinkling&reversal=false&fontSize=45&desc=Mobile%20Front-end%20Developer&descAlignY=80&fontAlignY=40&descSize=20&textBg=false) 
 
-[![벨로그](https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@gg04253/posts) [![메일](https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gg04253@gmail.com) [![노션](https://img.shields.io/badge/Notion-Portfolio-blue?style=flat&logo=notion)](https://tide-gatsby-fb8.notion.site/Front-end-11ae35e897244013bbe6b64ab951121a)
+[![벨로그](https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@gg04253/posts) [![메일](https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gg04253@gmail.com) [![노션](https://img.shields.io/badge/Notion-Profile-blue?style=flat&logo=notion)](https://tide-gatsby-fb8.notion.site/Front-end-11ae35e897244013bbe6b64ab951121a)
 
 
 
