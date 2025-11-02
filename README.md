@@ -4,7 +4,7 @@
 
 [![벨로그](https://img.shields.io/badge/Velog-Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@gg04253/posts) [![메일](https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gg04253@gmail.com) [![노션](https://img.shields.io/badge/Notion-Profile-blue?style=flat&logo=notion)](https://tide-gatsby-fb8.notion.site/Front-end-11ae35e897244013bbe6b64ab951121a)
 
-![주언어](https://github-readme-stats.vercel.app/api/wakatime?username=miiiin15&theme=vue&layout=compact&title_color=41b883&text_color=000000&hide=Groovy,Markdown,Gradle,text&color=41b883,git,other,xml&langs_count=6&range=last_7_days&custom_title=Language%20Time%20Record)
+![주언어](https://github-readme-stats.vercel.app/api/wakatime?username=miiiin15&theme=vue&layout=compact&title_color=41b883&text_color=000000&hide=Groovy,toml,Other,Markdown,Gradle,text&color=41b883,git,other,xml&langs_count=6&range=last_7_days&custom_title=Language%20Time%20Record)
 
 
   <div>
